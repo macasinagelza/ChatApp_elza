@@ -22,11 +22,8 @@ STEP 2: Run the command "npm start"
 
   Server is up on 3000
   
-  
-  
-  
 STEP 3: Locate the port by typing on your browser "localhost:3000"
   
 STEP 4: Then you will see your code running :>
   
-STEP 5: IMPORTANT NOTE: Make sure to save your work for any changes you've make and refresh the browser otherwise, your code will get an error. Enjoy Coding! :>
+
